@@ -6,7 +6,7 @@ A mod pack created by Cassie and Tyler to allow you to easily install all the mo
 
 ## Install Mod Manager
 
-1. Click here [r2modman](https://thunderstore.io/package/ebkr/r2modman/)
+1. Click here [r2modman](https://github.com/ebkr/r2modmanPlus/releases)
 
 2. Under 'Assets' (Great Great Assets) click **r2modman-Setup-[*Version number*].exe**.
 
