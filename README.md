@@ -8,7 +8,7 @@ A mod pack created by Cassie and Tyler to allow you to easily install all the mo
 
 1. Click here [r2modman](https://thunderstore.io/package/ebkr/r2modman/)
 
-2. Under 'Assets' click **r2modman-Setup-[*Version number*].exe**.
+2. Under 'Assets' (Great Great Assets) click **r2modman-Setup-[*Version number*].exe**.
 
 ![](https://raw.githubusercontent.com/tyler43636/CandTmods/main/img/r2modman-download-link.png)
 
